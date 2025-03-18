@@ -1,5 +1,5 @@
 This is the shared repository for the skill lab group activity contributed by team members Girish Yandigeri, Gayatri Vageesh Koparde, Lubna Tabassum 
-and Ananya Ganapati Hegde. \n
+and Ananya Ganapati Hegde. 
 
 Topics Assigned:
 1. Find Largest Sum countiguous subarray
