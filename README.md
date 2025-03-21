@@ -10,4 +10,4 @@ Topics Assigned:
 6. Implement a stack using deque
 7. Mirror of a tree 
 
-
+The videos made explaining these topics can be found [here](https://drive.google.com/drive/folders/1IqcnD6lCFjU7eBPg-MVLqnGF-hcOwXSP).
